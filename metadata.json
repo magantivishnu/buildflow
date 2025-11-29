@@ -1,0 +1,5 @@
+{
+  "name": "BuildMaster MVP",
+  "description": "A construction management application MVP for tracking projects, levels, structural elements, and tasks.",
+  "requestFramePermissions": []
+}
